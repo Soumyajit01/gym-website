@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    background-image: url('/img/bg.jpg');
+    background-size: cover;
+    color: white;
+    margin-left: 2px;
+}
+h2{
+    height: 20px;
+}
+.form-elements{
+    margin-bottom: 20px;
+}
+.form-elements input{
+    height: 25px;
+}
+.form-elements p{
+    margin-left: 348px;
+}
+#navbar{
+    font-size: 20px;
+    width: 355px;
+    margin: auto;
+    
+}
+#navbar a{
+    color: rgb(11, 157, 255);
+}
+#nav-input{
+    margin-left: 30px;
+}
